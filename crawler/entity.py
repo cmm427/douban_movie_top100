@@ -7,7 +7,7 @@ movie = {
     'types': '',
     'release_region': '',
     'release_date': '',
-    'score': 0.0,
+    'score': '',
     'short_comments': '',
     'movie_comments': '',
     'url': ''

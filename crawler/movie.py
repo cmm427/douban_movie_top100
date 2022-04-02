@@ -21,7 +21,7 @@ def get_top100_by_rate():
         if response.status_code == 200:
             data = response.json()["data"]
             movies.extend(data)
-        print('获取电影列表完\n')
+        print('获取电影列表完成\n')
     return movies
 
 
